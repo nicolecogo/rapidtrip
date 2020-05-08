@@ -19,4 +19,3 @@ client/web-report/
 env.config.js
 node_modules
 .expo
-.env
