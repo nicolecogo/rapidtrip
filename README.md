@@ -24,36 +24,36 @@ This procedure describes how to launch the application in a development or testi
 
 1. The User fist signs in/up unless he has recently authenticated - in that case he directly lands on the app's home page (step 2).
 
-<div style="display: flex; justify-content: space-evenly">
+<p align="center">
    <img src="readme-images/02-login.png" width="300"/>
    <img src="readme-images/01-signup.png" width="300"/>
-</div>
+</p>
 
 2. The User can check which trips he is a member of.
 
-<div style="display: flex; justify-content: space-evenly">
+<p align="center">
    <img src="readme-images/03-homepage.png" width="300"/>
    <img src="readme-images/09-profile.png" width="300"/>
-</div>
+</p>
 
 3. By clicking on a trip, the user can access a menu with different details about the trip:
 
-<div style="display: flex; justify-content: space-evenly">
+<p align="center">
    <img src="readme-images/04-trip.png" width="300"/>
    <img src="readme-images/05-participants.png" width="300"/>
-</div>
+</p>
 
 4. The user who created the group is the only one allowed to run the algo. As long as it has not been run, the other members must wait for the car allocation.
 
-<div style="display: flex; justify-content: space-evenly">
+<p align="center">
    <img src="readme-images/07-car-allocation.png" width="300"/>
-</div>
+</p>
 
 5. When all participants of a group have provided their departure time and location, the user who created the trip can run the algorithm. All users can then check the results on the Car Allocation page.
 
-<div style="display: flex; justify-content: space-evenly">
+<p align="center">
    <img src="readme-images/08-car-allocation-result.png" width="300"/>
-</div>
+</p>
 
 ## Tech Stack
 
